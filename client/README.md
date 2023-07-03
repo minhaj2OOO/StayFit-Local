@@ -1,0 +1,1 @@
+To run the frontend, use 'npm run start'.
