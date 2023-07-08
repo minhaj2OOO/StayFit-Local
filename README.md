@@ -5,8 +5,6 @@ This is a calorie-tracking application developed using PostgreSQL, Express, Reac
 
 ## To run the application locally:
 
-Backend -
-
 1. Set up a PostgreSQL server locally - https://www.postgresql.org/download/
 
 2. Use an SQL client (e.g., DBeaver) to connect to it.
@@ -67,8 +65,6 @@ Backend -
 4. For the 'Rewards' table, you will have to insert your own data.
 
 5. The server/src/models/index.ts file contains the information to the database. Modify the necessary information as needed.
-
-Frontend -
 
 6. Download and install Node.js from 'https://nodejs.org/en/download'.
 
